@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/navigation_subheader"
+        android:title="@string/navigation_subheader">
+
+        <menu>
+
+            <item
+                android:id="@+id/navigation_sub_item_4"
+                android:title="Sitios" />
+            <item
+                android:id="@+id/navigation_sub_item_7"
+                android:title="Busqueda por parametros" />
+            <item
+                android:id="@+id/navigation_sub_item_8"
+                android:title="Salir" />
+
+        </menu>
+    </item>
+</menu>

@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">SitiosMovistar</string>
+    <string name="hello_world"></string>
+    <string name="action_settings">Settings</string>
+    <string name="open_drawer">open</string>
+    <string name="close_drawer">close</string>
+    <string name="navigation_subheader">Menu</string>
+
+    <string name="navigation_sub_item_1">Buscar Destino</string>
+    <string name="navigation_sub_item_4">Sitios</string>
+    <string name="navigation_sub_item_5">Calificar Chofer</string>
+    <string name="navigation_sub_item_6">Reclamos</string>
+    <string name="navigation_sub_item_8">Salir</string>
+
+
+
+
+    <string name="title_activity_registro">SitiosMovistar</string>
+    <string name="title_activity_mi_perfil"></string>
+    <string name="buscar">Warning</string>
+    <string name="aceptar">:D</string>
+    <string name="title_activity_reclamos">Editar Sitio</string>
+    <string name="title_activity_buscar">Buscar</string>
+    <string name="title_activity_principal2"></string>
+
+    <string-array name="calificacion">
+        <item>  <p align="center">1 </p> </item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+
+
+
+
+    <string name="title_activity_recorridos">Sitios</string>
+    <string name="title_activity_paraderos">Sitios</string>
+    <string name="title_activity_lineas">Recorridos</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_search">Map</string>
+    <string name="str_btn_find">Find</string>
+    <string name="hnt_et_location">Enter location</string>
+    <string name="str_tv_distance_time">Distance</string>
+    <string name="title_activity_pruebasitios">pruebasitios</string>
+    <string name="title_activity_splash">SitiosMovistar</string>
+    <string name="title_activity_prueba_upload">prueba_upload</string>
+    <string name="title_activity_comentario">comentario</string>
+    <string name="title_activity_ver_comentarios">VerComentarios</string>
+</resources>
